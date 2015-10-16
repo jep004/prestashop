@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<partners>
+<partner>
+	<name><![CDATA[mailjet]]></name>
+	<module>mailjet</module>
+	<checkconfiguration>
+		<key>NO_KEY_REQUIRED</key>
+	</checkconfiguration>
+	<logo><![CDATA[https://api.prestashop.com/partner/premium/images/mailjet.png]]></logo>
+	<labels>
+		<label iso="en"><![CDATA[Quickly send automated emails and follow their return on investment]]></label>
+		<label iso="fr"><![CDATA[Envoyez rapidement des emails personnalisés et suivez leur performance]]></label>
+		<label iso="es"><![CDATA[Envía correos electronicos personalisados y sigue los resultados]]></label>
+		<label iso="it"><![CDATA[Invia in un click mail personalizzate e segui la loro performance]]></label>
+		<label iso="de"><![CDATA[Verschicken Sie personalisierte E-Mails schnell und einfach und verfolgen Sie ihre Performance mit]]></label>
+		<label iso="nl"><![CDATA[Stuur snel automatische e-mails en volg hun opbrengst van investeringen]]></label>
+		<label iso="pl"><![CDATA[Wysyłaj w szybki sposób spersonalizowane e-maile i śledź ich wydajność]]></label>
+	</labels>
+	<optionals>
+	</optionals>
+	<descriptions>
+	</descriptions>
+</partner>
+<partner>
+	<name><![CDATA[Twenga2]]></name>
+	<module>twenga</module>
+	<checkconfiguration>
+		<key>TWENGA_CONFIGURATION_OK</key>
+	</checkconfiguration>
+	<logo><![CDATA[https://api.prestashop.com/partner/premium/images/twenga2.png]]></logo>
+	<labels>
+		<label iso="en"><![CDATA[30 million monthly visitors and as many potential customers]]></label>
+		<label iso="fr"><![CDATA[30 millions de visiteurs par mois et autant de clients potentiels]]></label>
+		<label iso="es"><![CDATA[30 millones de visitantes y clientes potenciales al mes]]></label>
+		<label iso="it"><![CDATA[30 milioni di visitatori al mese e altrettanti clienti potenziali!]]></label>
+		<label iso="de"><![CDATA[30 Millionen Besucher und genauso viele potenzielle Kunden]]></label>
+		<label iso="pl"><![CDATA[30 milionów odwiedzających miesięcznie i tyle samo potencjalnych klientów]]></label>
+		<label iso="nl"><![CDATA[30 miljoen bezoekers per maand en evenveel potentiële klanten]]></label>
+		<label iso="pt"><![CDATA[30 milhões de visitantes mensalmente e o maior número possível de potenciais clientes]]></label>
+	</labels>
+	<optionals>
+	</optionals>
+	<descriptions>
+	</descriptions>
+</partner>
+</partners>
